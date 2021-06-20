@@ -499,6 +499,7 @@
                           <url>http://localhost:8090/manager/text</url>
                           <server>TomcatServer</server>
                           <path>/Samplewebapp</path>
+			  <release>11</release>
                        </configuration>
                    </plugin>
                 </plugins>
